@@ -1,0 +1,19 @@
+{
+  "System": {
+    "Route": [
+      {
+        "#class": "System.Route",
+        "name": "difference-fun-cli-node",
+        "controller": "Package:Difference:Fun:Node:Controller:Cli:run",
+        "path": "difference_fun/node",
+        "priority": 1001,
+        "method": [
+          "CLI"
+        ],
+        "request": {
+          "language": "en"
+        }
+      }
+    ]
+  }
+}

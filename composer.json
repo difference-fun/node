@@ -1,0 +1,25 @@
+{
+    "name" : "difference_fun/node",
+    "description" : "difference_fun/node see https://difference.fun for detailed usage",
+    "type" : "library",
+    "keywords" : ["node", "difference", "fun", ,"library", "framework", "node", "difference.fun"],
+    "homepage": "https://difference.fun",
+    "require" : {
+        "ext-pcntl": "*",
+        "ext-posix": "*",
+        "ext-zlib": "*",
+        "ext-iconv": "*",
+        "difference_fun/framework": "*"
+
+    },
+    "license" : "MIT",
+    "authors" : [{
+        "name" : "Remco van der Velde",
+        "email" : "development@universeorange.com"
+    }],
+    "autoload" : {
+        "psr-4" : {
+            "DIfference\\Fun\\Node\\" : "src/"
+        }
+    }
+}
