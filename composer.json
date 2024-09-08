@@ -2,7 +2,7 @@
     "name" : "difference_fun/node",
     "description" : "difference_fun/node see https://difference.fun for detailed usage",
     "type" : "package",
-    "keywords" : ["node", "difference", "fun", ,"library", "framework", "node", "json", "storage", "difference.fun"],
+    "keywords" : ["node", "difference", "fun", "library", "framework", "node", "json", "storage", "difference.fun"],
     "homepage": "https://difference.fun",
     "require" : {
         "ext-pcntl": "*",
