@@ -19,7 +19,7 @@
     }],
     "autoload" : {
         "psr-4" : {
-            "DIfference\\Fun\\Node\\" : "src/"
+            "Difference\\Fun\\Node\\" : "src/"
         }
     }
 }
